@@ -218,7 +218,8 @@ Students should successfully:
 - Locate major AWS services.
 
 
-![Uploading image.png…]()
+<img width="1753" height="897" alt="image" src="https://github.com/user-attachments/assets/d80f9637-91e2-48e5-b4d4-18253333e218" />
+
 
 
 
